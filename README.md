@@ -1,6 +1,6 @@
 # optimal_state_of_living
 
-My java version 21.\n
+My java version 21./n
 My gradle version 8.5.
 
 
