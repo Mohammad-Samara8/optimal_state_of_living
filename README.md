@@ -1,9 +1,10 @@
 # optimal_state_of_living
 
-my java version 21
-my gradle version 8.5
 
 ## Getting Started
+
+my java version 21
+my gradle version 8.5
 
 This project is a starting point for a Flutter application.
 
