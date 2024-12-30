@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "435993134541",
+    "project_id": "optimal-state-of-living-123",
+    "storage_bucket": "optimal-state-of-living-123.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435993134541:android:05e54757479cbf07ac7084",
+        "android_client_info": {
+          "package_name": "com.example.optimal_state_of_living"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSx0ZKktJuDsPl8z-JWVb0MA6yUzBQ3v0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
