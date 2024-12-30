@@ -1,6 +1,7 @@
 # optimal_state_of_living
 
-A new Flutter project.
+my java version 21
+my gradle version 8.5
 
 ## Getting Started
 
